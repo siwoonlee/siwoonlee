@@ -1,5 +1,5 @@
 # Hi there 👋
-[![SiWoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwoonlee)](https://github.com/siwoonlee/github-readme-stats)
+[![SiWoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwoonlee&count_private=true)](https://github.com/siwoonlee)
 
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--

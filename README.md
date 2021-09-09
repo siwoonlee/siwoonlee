@@ -52,11 +52,11 @@
 - [Co-Auther] "Defect-Detection Model for Underground Parking Lots Using Image Object-Detection Method", Computers, Materials and Continua (CMC), vol. 66, no.3, pp. 2493-2507, 2021 [IF 2020: 3.772] (SCIE)
 - [Co-Auther] "Correlation Analysis between Air Temperature and MODIS Land Surface Temperature and Prediction of Air Temperature Using TensorFlow Long Short-Term Memory for the Period of Occurrence of Cold and Heat Waves." Remote Sensing 12.19 (2020): 3231. [IF 2019: 4.509] (SCIE)
 
-- 🔭 I'm a programmer/developer who loves to work with Python, but not afraid to learn other frameworks/languages to solve problems.
+🔭 I'm a programmer/developer who loves to work with Python, but not afraid to learn other frameworks/languages to solve problems.
 
-- 🔭 Currently I’m focusing on working with AI in Computer Vision / TimeSeries forecasting, but not limited to them.
+🌱 Currently I’m focusing on working with AI in Computer Vision / TimeSeries forecasting, but not limited to them.
 
-- 🤔 Most of the repositories are private... You can reach me through LinkedIn: https://www.linkedin.com/in/siwoon-lee-32bb22199/
+🤔 Most of the repositories are private... You can reach me through LinkedIn: https://www.linkedin.com/in/siwoon-lee-32bb22199/
 
 <!--
 **siwoonlee/siwoonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

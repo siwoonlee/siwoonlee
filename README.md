@@ -54,7 +54,7 @@
 
 🔭 I'm a programmer/developer who loves to work with Python, but not afraid to learn other frameworks/languages to solve problems.
 
-🌱 Currently I’m focusing on working with AI in Computer Vision / TimeSeries forecasting, but not limited to them.
+🌱 Currently I’m focusing on working with AI in Computer Vision / TimeSeries forecasting.
 
 🤔 Unfortunately, most of the repositories are private... 
 

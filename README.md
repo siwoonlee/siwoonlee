@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwoonlee)](https://github.com/siwoonlee)
 
 ### Educations
-- [Master's Degree] AI & Datascience at Ajou University
+- [Master's Degree] Artificial Intelligence & Data Science at Ajou University
 - [Bachelor's Degree] Financial Engineering at Ajou University
 
 ### Publications

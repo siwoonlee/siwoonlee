@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <br>
 </p>
 
 
@@ -46,6 +47,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwoonlee)](https://github.com/siwoonlee)
 
+### Publications
+- [First-Auther] "Stock Market Forecasting with Super-High Dimensional Time-Series Data Using ConvLSTM, Trend Sampling, and Specialized Data Augmentation", Volume 161, 15 December 2020, 113704, pages 1-19, Expert Systems With Applications. [IF 2020: 6.954] (SCIE).
+- [Co-Auther] "Defect-Detection Model for Underground Parking Lots Using Image Object-Detection Method", Computers, Materials and Continua (CMC), vol. 66, no.3, pp. 2493-2507, 2021 [IF 2020: 3.772] (SCIE)
+- [Co-Auther] "Correlation Analysis between Air Temperature and MODIS Land Surface Temperature and Prediction of Air Temperature Using TensorFlow Long Short-Term Memory for the Period of Occurrence of Cold and Heat Waves." Remote Sensing 12.19 (2020): 3231. [IF 2019: 4.509] (SCIE)
 
 <!--
 **siwoonlee/siwoonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=Numba&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>&nbsp 
   <br>
   <br>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 

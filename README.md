@@ -56,7 +56,7 @@
 ### Publications
 - [First-Auther] "Stock Market Forecasting with Super-High Dimensional Time-Series Data Using ConvLSTM, Trend Sampling, and Specialized Data Augmentation", Volume 161, 15 December 2020, 113704, pages 1-19, Expert Systems With Applications. [IF 2020: 6.954] (SCIE).
 - [Co-Auther] "Defect-Detection Model for Underground Parking Lots Using Image Object-Detection Method", Computers, Materials and Continua (CMC), vol. 66, no.3, pp. 2493-2507, 2021 [IF 2020: 3.772] (SCIE)
-- [Co-Auther] "Correlation Analysis between Air Temperature and MODIS Land Surface Temperature and Prediction of Air Temperature Using TensorFlow Long Short-Term Memory for the Period of Occurrence of Cold and Heat Waves." Remote Sensing 12.19 (2020): 3231. [IF 2019: 4.509] (SCIE)
+- [Co-Auther] "Correlation Analysis between Air Temperature and MODIS Land Surface Temperature and Prediction of Air Temperature Using TensorFlow Long Short-Term Memory for the Period of Occurrence of Cold and Heat Waves." Remote Sensing 12.19 (2020): 3231. [IF 2020: 4.848] (SCIE)
 
 🔭 I'm a programmer/developer who loves to work with Python, but not afraid to learn other frameworks/languages to solve problems.
 

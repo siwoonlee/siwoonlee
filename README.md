@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=SiWoonLee&fontSize=30&animation=twinkling)
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">

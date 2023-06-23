@@ -44,7 +44,7 @@
 </p>
 
 
-[![SiWoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwoonlee&count_private=true)](https://github.com/siwoonlee)
+<!--  [![SiWoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwoonlee&count_private=true)](https://github.com/siwoonlee) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwoonlee)](https://github.com/siwoonlee) -->
 

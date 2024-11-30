@@ -63,8 +63,6 @@
 
 🤔 Unfortunately, most of the repositories are private... 
 
-📫 You can reach me through LinkedIn: https://www.linkedin.com/in/siwoon-lee-32bb22199/
-
 <!--
 **siwoonlee/siwoonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
